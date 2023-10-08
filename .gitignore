@@ -1,0 +1,26 @@
+# Arquivos de compilação e cache do RPG Maker MZ
+/Game.rpgproject
+/Game.rxproj
+/Game.rpgproject.bak
+/Game.rpgproject.bak2
+/Game.ini
+/Game.rxdata
+/Data/Map*.lmu
+/Data/Map*.lmu.bak
+
+# Diretório de exportação de jogos
+/Output
+
+# Diretórios e arquivos específicos do RPG Maker MZ
+/Save
+/Save/**/*
+/Audio/BGM/*.ogg
+/Audio/BGS/*.ogg
+/Audio/ME/*.ogg
+/Audio/SE/*.ogg
+
+# Diretórios de node_modules (se você estiver usando Node.js)
+/node_modules
+
+# Arquivos de configuração do editor (opcional)
+/.vscode
