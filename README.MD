@@ -24,19 +24,7 @@ Para jogar o Finance Quest, siga estas etapas:
 
 ## Contribuição
 
-Se você deseja contribuir para o desenvolvimento do Finance Quest, siga estas diretrizes:
-
-1. Fork este repositório.
-
-2. Faça suas alterações no RPG Maker MZ, como adicionar novos mapas, eventos ou recursos.
-
-3. Faça commit das suas alterações no seu fork e forneça uma descrição clara das mudanças que você fez.
-
-4. Envie suas alterações para o seu fork.
-
-5. Crie um pull request neste repositório.
-
-Agradecemos sua contribuição para tornar o Finance Quest ainda melhor!
+Contribuições são sempre bem-vindas! Se você tem sugestões, melhorias ou encontrou bugs, sinta-se à vontade para abrir uma issue ou um pull request.
 
 ## Licença
 
