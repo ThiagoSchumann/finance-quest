@@ -126,9 +126,9 @@
     this._commandWindow = new Window_TitleCommand(rect);
     this._commandWindow.setBackgroundType(background);
     this._commandWindow.setHandler("newGame", this.commandNewGame.bind(this));
-    this._commandWindow.setHandler("continue", this.commandContinue.bind(this));
-    this._commandWindow.setHandler("chapters", this.commandChapters.bind(this));
-    this._commandWindow.setHandler("options", this.commandOptions.bind(this));
+    //this._commandWindow.setHandler("continue", this.commandContinue.bind(this));
+    //this._commandWindow.setHandler("chapters", this.commandChapters.bind(this));
+    //this._commandWindow.setHandler("options", this.commandOptions.bind(this));
     this.addWindow(this._commandWindow);
   };
 
